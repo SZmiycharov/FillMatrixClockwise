@@ -1,0 +1,6 @@
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SpiralArrayFillTest\SpiralArrayFillTest\bin\Debug\SpiralArrayFillTest.exe.config
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SpiralArrayFillTest\SpiralArrayFillTest\bin\Debug\SpiralArrayFillTest.exe
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SpiralArrayFillTest\SpiralArrayFillTest\bin\Debug\SpiralArrayFillTest.pdb
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SpiralArrayFillTest\SpiralArrayFillTest\obj\Debug\SpiralArrayFillTest.csprojResolveAssemblyReference.cache
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SpiralArrayFillTest\SpiralArrayFillTest\obj\Debug\SpiralArrayFillTest.exe
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SpiralArrayFillTest\SpiralArrayFillTest\obj\Debug\SpiralArrayFillTest.pdb
